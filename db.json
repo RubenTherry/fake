@@ -1,0 +1,35 @@
+{
+  "concerten": [
+    {
+      "id":1,
+      "category":"Rock",
+      "title": "Rock Werchter",
+      "description": "Rock Werchter",
+      "location": "Werchter",
+      "date": "4-7 juli 2024",
+      "time": "12:00",
+      "organisator": "Noël Steen"
+    },
+    {
+      "id":2,
+      "category":"Pop",
+      "title": "Pukkelpop",
+      "description": "Pukkelpop",
+      "location": "Kiewit, Hasselt",
+      "date": "15-18 augustus 2024",
+      "time": "11:00",
+      "organisator": "Chokri Mahassine"
+    },
+    {
+      "id":3,
+      "category":"Tomorrowland",
+      "title": "Elektronische dansmuziek",
+      "description": "Mega",
+      "location": "Boom",
+      "date": "19-21 juli en 26-28 juli 2024",
+      "time": "11:00",
+      "organisator": "Weareone"
+    }
+  ]
+}
+
